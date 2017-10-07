@@ -1,0 +1,40 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  font-family: 'Tangerine', serif;
+}
+
+.title-page{
+  position:fixed;
+  padding:0;
+  margin:0;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(200,230,55);
+}
+
+.title {
+  padding-top: 15%;
+  border-color: blue;
+  text-align: center;
+  font-size: 250%;
+  text-decoration-color: red;
+}
+
+.title-text {
+  text-decoration-color: red;
+  font-size: 250%;
+  font-family: 'Tangerine', cursive;
+}
+
+.menu-text{
+  font-family: 'Dosis', cursive;
+  font-size: 150%;
+}
